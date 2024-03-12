@@ -1,0 +1,18 @@
+body{
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 70%;
+    margin: 0px auto;/*Centramos contenido*/
+    border: 1px solid black;
+}
+
+.article{
+
+}
+
+header{
+    background: red;
+}
